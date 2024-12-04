@@ -1,5 +1,7 @@
 ## Model code for the Fosberg 100hr and 1000hr fuel moistures calculations from US NFDRS Version 2/3. 
 
+[See the Jupyter notebook here](CalcFM100AndFM1000.ipynb)
+
 ### This source code includes a short weather data record for Blue Mountain RAWS (241513) from 2015-2017.
 
 ### For details on the calculations see:
