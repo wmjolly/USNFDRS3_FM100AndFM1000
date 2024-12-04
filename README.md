@@ -8,6 +8,6 @@
 The 1978 National Fire-Danger Rating System: technical documentation. 1984. Larry S. Bradshaw, John E. Deeming, Robert E. Burgan, Jack D. Cohen
 General Technical Report INT-169. Ogden, UT: U.S. Department of Agriculture, Forest Service, Intermountain Forest and Range Experiment Station. 44 p.
 DOI:	https://doi.org/10.2737/INT-GTR-169
-[Reference]([https://pages.github.com/](https://research.fs.usda.gov/treesearch/29615)).
+[Reference](https://research.fs.usda.gov/treesearch/29615)
 
 
